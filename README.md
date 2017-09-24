@@ -1,4 +1,4 @@
-# Sprin-cloud-stream
+# Spring-cloud-stream
 Spring Cloud Stream is a framework for building message-driven microservices.
 
 
